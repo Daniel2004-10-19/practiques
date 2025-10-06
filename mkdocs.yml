@@ -1,0 +1,10 @@
+site_name: "Documentació de Pràctiques"
+theme:
+  name: material
+nav:
+  - Inici: index.md
+  - Pràctiques:
+      - Pràctica 1: practica1.md
+      - Pràctica 2: practica2.md
+      - Pràctica 3: practica3.md
+
