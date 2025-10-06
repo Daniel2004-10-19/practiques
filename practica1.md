@@ -1,3 +1,0 @@
-# Pràctica 1
-
-Contingut de la pràctica 1...
