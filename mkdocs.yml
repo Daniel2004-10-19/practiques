@@ -4,7 +4,6 @@ theme:
 nav:
   - Inici: index.md
   - Pràctiques:
-      - Pràctica 1: practica1.md
-      - Pràctica 2: practica2.md
-      - Pràctica 3: practica3.md
-
+      - Exercici 1: Practicas/Exercici1/Exercici1.md
+      - Exercici 2: Practicas/Exercici2/Exercici2.md
+      - Exercici 3: Practicas/Exercici3/Exercici3.md
